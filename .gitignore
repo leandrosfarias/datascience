@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.DS_Store
+old/
+datasets/clusterizacao/DataNews.csv
+datasets/analise_de_sentimento_rnn/
+code_tasks/
